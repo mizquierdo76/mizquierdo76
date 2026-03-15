@@ -2,7 +2,7 @@
 
 Healthcare Data Analytics | Python | SQL | Tableau
 
-I build data analytics projects focused on healthcare operations and predictive modeling.
+I build data analytics projects focused on healthcare operations, predictive modeling, and hospital performance analytics.
 
 ## Featured Project
 

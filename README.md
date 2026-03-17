@@ -12,7 +12,7 @@ Analyzed hospital readmission patterns and developed a predictive model using Py
 Tools used:
 - Python (Pandas, NumPy, Scikit-learn)
 - SQL
-- Tableau
+- Tableau (data visualization and operational dashboards)
 - R (data preparation and statistical analysis)
 - Power BI (interactive dashboard development)
 - Healthcare dataset analytics  (Matplotlib)

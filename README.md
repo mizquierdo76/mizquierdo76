@@ -15,7 +15,7 @@ Tools used:
 - Tableau
 - R (data preparation and statistical analysis)
 - Power BI (interactive dashboard development)
-- Healthcare dataset analytics
+- Healthcare dataset analytics  (Matplotlib)
 
 Project repository:
 https://github.com/mizquierdo76/healthcare-analytics-readmission-and-los

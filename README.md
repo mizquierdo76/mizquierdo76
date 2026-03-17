@@ -10,7 +10,7 @@ I build data analytics projects focused on healthcare operations, predictive mod
 Analyzed hospital readmission patterns and developed a predictive model using Python. Built an interactive Tableau dashboard exploring factors affecting hospital length of stay.
 
 Tools used:
-- Python (Pandas, Scikit-learn)
+- Python (Pandas, NumPy, Scikit-learn)
 - SQL
 - Tableau
 - R (data preparation and statistical analysis)

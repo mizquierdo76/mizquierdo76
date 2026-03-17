@@ -13,6 +13,8 @@ Tools used:
 - Python (Pandas, Scikit-learn)
 - SQL
 - Tableau
+- R (data preparation and statistical analysis)
+- Power BI (interactive dashboard development)
 - Healthcare dataset analytics
 
 Project repository:

@@ -1,6 +1,6 @@
 # Michael Izquierdo
 
-Healthcare Data Analytics | Python | SQL | Tableau
+Healthcare Data Analytics | Python | SQL | Tableau  | Power Bi  | R
 
 I build data analytics projects focused on healthcare operations, predictive modeling, and hospital performance analytics.
 
